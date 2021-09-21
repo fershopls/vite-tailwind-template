@@ -4,7 +4,7 @@
 
 
 <script>
-import Main from "./Generator/Main.vue";
+import Main from "./Main/Main.vue";
 
 export default {
   components: {
